@@ -1,0 +1,6 @@
+{
+  "name": "UrbanPark - Smart Parking Finder",
+  "description": "AI & IoT-Based Smart Parking Management Application by UrbanPark Solutions Pvt. Ltd. Find, reserve, navigate, and pay for parking in real time.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
